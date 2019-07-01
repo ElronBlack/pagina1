@@ -1,0 +1,42 @@
+
+
+.container{
+	margin: 0 auto;
+	text-align: center;
+	width: 80%; 
+}
+.box{
+	display: inline-block;
+	margin: 80px;
+	padding: 10px;
+	text-align: center;
+	vertical-align: top;
+	width: 150px;
+}
+#caja1,#caja2{
+	color: #FF0000;
+	border: 2px solid #333;
+	height: 99px;
+	 
+}
+h3{
+	font-family: arial;
+	text-decoration-color: 
+	font-size: 20px;
+	color: #DEDEDE!important
+}
+img{
+	width: 106%;
+}
+.detectar{
+	background: #ddd;
+	border: 3px dashed #aaa !important;
+}
+h4{
+	color: #DEDEDE!important
+}
+ 
+ 
+
+
+

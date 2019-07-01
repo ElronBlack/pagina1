@@ -1,0 +1,32 @@
+ 
+ 
+.container-footer{
+    margin-top: 120px; 
+color: white;
+width: 100%;
+background: #101010; 
+display: flex;
+justify-content: space-between;
+padding: 20px;
+}
+.copyright{
+    color: #C7C7C7;
+}
+.information a{
+  text-decoration: none;
+  color: white;
+  
+}
+.container h1{
+color: white;
+}
+.container label{
+color: white;
+}
+/* -------------------------Estilos bloque Quienes somos----------------------------*/
+
+.quienes-somos{
+	background: #99A3A4;
+	color: fff;
+	padding-top: 50%; 
+}
